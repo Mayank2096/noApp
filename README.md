@@ -6,12 +6,13 @@ It contains two sub-folders: <br/>
 1. csv-warehouse: It is folder of frontend of application made using React.js.<br/>
 2. Server: It comprises of file using NOde.js and Express.js<br/>
 
-Execution of file:<br/>
+Execution of files:<br/>
 Step1: Go to Server folder.<br/>
 Step2: Edit .env file with user-centric variables like MONGO_URL , PORT<br/>
-Step3: Run "npm start"<br/>
+Step3: Run "npm start"<br/> // we are using concurrently, it will run server and client both.
 
 Architecture Details:<br/>
+<br/>
 Frontend:<br/>
 - It used React.js and Axios.
 - Frontend is running on Port 3000.
