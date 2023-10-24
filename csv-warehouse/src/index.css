@@ -1,0 +1,35 @@
+
+.csv-upload{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(241, 179, 97);
+}
+
+.csv-form{
+  /* border: solid palevioletred 10px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 10px;
+  
+}
+
+.Button{
+  margin: 5px;
+}
+.Button2{
+  background-color: white;
+}
+
+.status{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid rgb(88, 88, 128) 30px;
+  background-color: rgb(14, 173, 112);
+  margin: 3%;
+  background-color: antiquewhite;
+}
